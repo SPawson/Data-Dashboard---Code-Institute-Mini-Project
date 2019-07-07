@@ -1,0 +1,66 @@
+
+/********************
+Sections & Spacing 
+
+*********************/
+
+.section {
+    border-bottom: 1px solid #e6e6e6;
+    padding: 30px 0;
+}
+
+.section-paragraph {
+    margin-top: 5px;
+    line-height: 1.2;
+}
+
+.space-up {
+    margin-top: 40px;
+}
+
+.custom-chart {
+    margin-bottom: 40px;
+}
+
+.section-heading,
+#discipline-selector {
+    display: inline-block;
+    float: none;
+    margin: 0;
+}
+
+/********************
+Inline Styles e.g. font Awesome
+
+*********************/
+
+
+.number-box {
+    margin-right: 75px;
+    font-weight: 500;
+}
+
+.fa-gender {
+    margin-right: 5px;
+}
+
+
+.number-box,
+.fa-gender {
+    font-size: 24px;
+}
+
+
+
+#discipline-selector {
+    margin-left: 15px;
+}
+
+/********************
+Text & Font Styles
+
+*********************/
+
+h1 {
+    font-weight: 500;
+}
